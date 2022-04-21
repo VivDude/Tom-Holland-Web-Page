@@ -1,0 +1,62 @@
+body{
+    text-align: center;
+    
+}
+img {
+    width: 20%;
+    border-radius: 50%;
+    height: 4in;
+    padding-top: 50px;
+    
+}
+#s1,#s2,#s3,#s4{
+    padding-bottom: 30px;
+}
+h1{
+    font-size:38px;
+}
+h3{
+    font-size: 23px;
+}
+p{
+    font-size: 18px;
+    padding-left: 5%;
+    padding-right: 5%;
+    line-height: 1.3;
+    font-family: 'Roboto Slab', serif;
+}
+
+#s1{
+    position: absolute;
+    width: 100%;
+    margin-top: 0px;
+    top:0;
+    left:0;
+background: linear-gradient(#6094db,#3d51e6, #5b34eb, #8c34eb);
+}
+a{
+    font-size: 20px;   
+}
+ul{
+    position:fixed;
+    list-style: none;
+    width:100%;
+    z-index:999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999;
+    background-color: darkturquoise;
+    top:0;
+    left:0;
+    height: 3.3%;
+    padding-top: 5px;
+    padding-bottom:5px;
+    margin-top: 0px;
+}
+li{
+    display:inline;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: large;
+    
+}
+#s2{
+padding-top: 610px;
+}
